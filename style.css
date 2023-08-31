@@ -57,3 +57,21 @@ color: #e47312;}
     float: right;
     height: 10px;
   }
+  nav{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1px;
+
+    
+  }
+  a{
+    text-decoration: none;
+  }
+  a:hover{
+    color: #e47312;
+  }
+  #main-img{
+    max-height: 100%;
+   
+
+  }
