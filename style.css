@@ -71,7 +71,8 @@ color: #e47312;}
     color: #e47312;
   }
   #main-img{
-    max-height: 100%;
-   
+    height: 1000px;
+    width: 1000px;
+    object-fit:cover;
 
   }
